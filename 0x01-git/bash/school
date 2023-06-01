@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "School"
-^C
+echo "The school is open"
 
