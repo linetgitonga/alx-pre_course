@@ -1,3 +1,1 @@
-My first readme
-readme for git
-README update
+README for git 
